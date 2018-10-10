@@ -1,0 +1,13 @@
+Breakout to do:
+Paddle doesn't move beyond frame
+
+
+
+Bugs: 
+
+
+Possible features:  
+Balls bounce direction based on where it lands on the paddle
+Ball is started on paddle by mouseclick
+Life system. 3 lifes and you lose.
+Levels?? Clear all bricks and you win the level. 
